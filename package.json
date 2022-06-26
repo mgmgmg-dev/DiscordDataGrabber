@@ -1,0 +1,15 @@
+{
+  "name": "discordspam",
+  "version": "1.0.0",
+  "description": "Gathers ids and spams them in dms. (FOR ETHICAL USE ONLY)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mgmgmg",
+  "license": "MIT",
+  "dependencies": {
+    "discord-user-bots": "^1.5.2",
+    "discord.js": "^13.8.1"
+  }
+}
