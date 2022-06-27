@@ -1,5 +1,5 @@
 {
-    "bottoken":"INSERT BOT TOKEN HERE"
-    "usertoken":"INSERT USER TOKEN HERE"
+    "bottoken":"INSERT BOT TOKEN HERE", 
+    "usertoken":"INSERT USER TOKEN HERE", 
     "command":"INSERT COMMAND HERE"
 }
