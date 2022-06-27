@@ -1,5 +1,5 @@
-By using this code you aknowledge that it violates Discord's TOS.
-I DO NOT encourage to violate them at all, so please DON'T RUN IT.
-
-I, the developer, take aboslutely NO RESPONSABILITY upon any execution
+By downloading this code you acknowledge that it violates Discord's TOS.
+I DO NOT encourage you to violate them at all, so please DON'T RUN IT.
+	 
+I, the developer, take absolutely NO RESPONSIBILITY upon any execution
 of this code.
